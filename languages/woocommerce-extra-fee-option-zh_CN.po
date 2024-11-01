@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TT Extra Fee Option for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-15 15:48+0000\n"
+"PO-Revision-Date: 2022-06-17 12:40+0000\n"
+"Last-Translator: \n"
+"Language-Team: Chinese (China)\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: woocommerce-extra-fee-option"
+
+#. Description of the plugin
+msgid "Allow you to add an extra fee with a minimum order to WooCommerce"
+msgstr "让你征收额外WooCommerce费用配合最低消费的选项"
+
+#: wc-extra-fee-option.php:237
+msgid "Amount"
+msgstr "数目"
+
+#: wc-extra-fee-option.php:247
+msgid "Cart Percentage(%)"
+msgstr "购物车比例"
+
+#: wc-extra-fee-option.php:224
+msgid "Enable"
+msgstr "开启"
+
+#: wc-extra-fee-option.php:246
+msgid "Fixed Fee"
+msgstr "固定费用"
+
+#. URI of the plugin
+msgid "https://terrytsang.com/product/tt-woocommerce-extra-fee-option/"
+msgstr "https://terrytsang.com/product/tt-woocommerce-extra-fee-option/"
+
+#. Author URI of the plugin
+msgid "https://terrytsang.com/shop"
+msgstr "https://terrytsang.com/shop"
+
+#: wc-extra-fee-option.php:231
+msgid "Label"
+msgstr "标题"
+
+#: wc-extra-fee-option.php:259
+msgid ""
+"Minumum Order<br><span style=\"color:#999;\">(Optional, apply extra fee when "
+"cart total is less or equal than this amount)</span>"
+msgstr "订购金额 (可选，适用于额外收费时，购物车总数小于或等于这个金额）"
+
+#: wc-extra-fee-option.php:272
+msgid "Save Options"
+msgstr "储存选项"
+
+#: wc-extra-fee-option.php:252
+msgid "Taxable"
+msgstr "计算税在内"
+
+#. Author of the plugin
+msgid "Terry Tsang"
+msgstr "庆威 (Terry Tsang)"
+
+#: wc-extra-fee-option.php:187
+msgctxt "TT Extra Fee for WooCommerce options saved."
+msgid "TT Extra Fee for WooCommerce options saved."
+msgstr "TT Extra Fee for WooCommerce 额外收费选项已被储存。"
+
+#: wc-extra-fee-option.php:153 wc-extra-fee-option.php:215
+msgid "TT Extra Fee Option"
+msgstr "TT Extra Fee Option"
+
+#. Name of the plugin
+msgid "TT Extra Fee Option for WooCommerce"
+msgstr "TT Extra Fee Option for WooCommerce"
+
+#: wc-extra-fee-option.php:243
+msgid "Type"
+msgstr "类型"

@@ -1,0 +1,84 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TT Extra Fee Option for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-15 15:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: woocommerce-extra-fee-option"
+
+#. Description of the plugin
+msgid "Allow you to add an extra fee with a minimum order to WooCommerce"
+msgstr ""
+
+#: wc-extra-fee-option.php:237
+msgid "Amount"
+msgstr ""
+
+#: wc-extra-fee-option.php:247
+msgid "Cart Percentage(%)"
+msgstr ""
+
+#: wc-extra-fee-option.php:224
+msgid "Enable"
+msgstr ""
+
+#: wc-extra-fee-option.php:246
+msgid "Fixed Fee"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://terrytsang.com/product/tt-woocommerce-extra-fee-option/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://terrytsang.com/shop"
+msgstr ""
+
+#: wc-extra-fee-option.php:231
+msgid "Label"
+msgstr ""
+
+#: wc-extra-fee-option.php:259
+msgid ""
+"Minumum Order<br><span style=\"color:#999;\">(Optional, apply extra fee when "
+"cart total is less or equal than this amount)</span>"
+msgstr ""
+
+#: wc-extra-fee-option.php:272
+msgid "Save Options"
+msgstr ""
+
+#: wc-extra-fee-option.php:252
+msgid "Taxable"
+msgstr ""
+
+#. Author of the plugin
+msgid "Terry Tsang"
+msgstr ""
+
+#: wc-extra-fee-option.php:187
+msgctxt "TT Extra Fee for WooCommerce options saved."
+msgid "TT Extra Fee for WooCommerce options saved."
+msgstr ""
+
+#: wc-extra-fee-option.php:153 wc-extra-fee-option.php:215
+msgid "TT Extra Fee Option"
+msgstr ""
+
+#. Name of the plugin
+msgid "TT Extra Fee Option for WooCommerce"
+msgstr ""
+
+#: wc-extra-fee-option.php:243
+msgid "Type"
+msgstr ""

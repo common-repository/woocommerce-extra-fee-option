@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TT Extra Fee Option for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-15 15:35+0000\n"
+"PO-Revision-Date: 2022-06-15 15:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: woocommerce-extra-fee-option"
+
+#. Description of the plugin
+#| msgid "Allow you to add extra fee with minimum order to WooCommerce"
+msgid "Allow you to add an extra fee with a minimum order to WooCommerce"
+msgstr "Allow you to add an extra fee with a minimum order to WooCommerce"
+
+#: wc-extra-fee-option.php:237
+msgid "Amount"
+msgstr "Amount"
+
+#: wc-extra-fee-option.php:247
+msgid "Cart Percentage(%)"
+msgstr "Cart Percentage(%)"
+
+#: wc-extra-fee-option.php:224
+msgid "Enable"
+msgstr "Enable"
+
+#: wc-extra-fee-option.php:246
+msgid "Fixed Fee"
+msgstr "Fixed Fee"
+
+#. URI of the plugin
+msgid "https://terrytsang.com/product/tt-woocommerce-extra-fee-option/"
+msgstr "https://terrytsang.com/product/tt-woocommerce-extra-fee-option/"
+
+#. Author URI of the plugin
+msgid "https://terrytsang.com/shop"
+msgstr "https://terrytsang.com/shop"
+
+#: wc-extra-fee-option.php:231
+msgid "Label"
+msgstr "Label"
+
+#: wc-extra-fee-option.php:259
+msgid ""
+"Minumum Order<br><span style=\"color:#999;\">(Optional, apply extra fee when "
+"cart total is less or equal than this amount)</span>"
+msgstr ""
+"Minumum Order<br><span style=\"color:#999;\">(Optional, apply extra fee when "
+"cart total is less or equal than this amount)</span>"
+
+#: wc-extra-fee-option.php:272
+msgid "Save Options"
+msgstr "Save Options"
+
+#: wc-extra-fee-option.php:252
+msgid "Taxable"
+msgstr "Taxable"
+
+#. Author of the plugin
+msgid "Terry Tsang"
+msgstr "Terry Tsang"
+
+#: wc-extra-fee-option.php:187
+msgctxt "TT Extra Fee for WooCommerce options saved."
+msgid "TT Extra Fee for WooCommerce options saved."
+msgstr "TT Extra Fee for WooCommerce options saved."
+
+#: wc-extra-fee-option.php:153 wc-extra-fee-option.php:215
+msgid "TT Extra Fee Option"
+msgstr "TT Extra Fee Option"
+
+#. Name of the plugin
+msgid "TT Extra Fee Option for WooCommerce"
+msgstr "TT Extra Fee Option for WooCommerce"
+
+#: wc-extra-fee-option.php:243
+msgid "Type"
+msgstr "Type"
